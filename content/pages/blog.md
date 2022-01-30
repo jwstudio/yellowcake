@@ -1,10 +1,13 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: James's Blog
+featuredImage: https://ucarecdn.com/2c44a07a-5293-45c4-ac4c-fdd481e63de2/
+subtitle: |-
+  This is my blog on all things Web Design and Computer Science!
+
+  [Portfolio Site](https://jww.netlify.app/)
 meta:
   description: This is a meta description.
-  title: Blog Page
+  title: My Blog
 ---
