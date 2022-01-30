@@ -109,8 +109,8 @@ export class Navigation extends Component {
                 </div>
               </span>
             </div>
-            <NavLink to="/default/">Default</NavLink>
-            <NavLink to="/contact/">Contact</NavLink>
+            <NavLink to="https://jww.netlify.app/#projects">Projects</NavLink>
+            <NavLink to="https://jww.netlify.app/#contact">Contact</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"
