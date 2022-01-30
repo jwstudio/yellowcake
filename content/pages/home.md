@@ -2,11 +2,8 @@
 template: HomePage
 slug: ""
 title: James Whitby
-featuredImage: https://ucarecdn.com/14635f22-cd5d-41e5-bbd0-e4ac6437004d/-/crop/330x308/0,192/-/preview/
-subtitle: |-
-  I am a **frontend web designer**
-
-  ![Me](https://ucarecdn.com/ab675cb6-e4ae-4d89-9357-e6e5b72d8a63/ "Me")
+featuredImage: https://ucarecdn.com/6c71c903-5a2b-4c9b-a301-f6cc97657e37/-/crop/17x147/0,0/-/preview/
+subtitle: I am a **frontend web designer**
 accordion:
   - title: tege
     content: hrhrhrhrhrhr
